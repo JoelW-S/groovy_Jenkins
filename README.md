@@ -1,2 +1,2 @@
 # groovy_Jenkins
-Groovy scripts for the Jenkins API
+Groovy scripts for configuring Jenkins global configuration.
