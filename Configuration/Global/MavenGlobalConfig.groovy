@@ -1,6 +1,4 @@
 import jenkins.model.*
-import hudson.plugins.sonar.*
-import hudson.plugins.sonar.model.*
 import hudson.model.*
 
 // Jenkins global Maven configuration
